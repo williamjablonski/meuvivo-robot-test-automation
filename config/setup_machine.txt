@@ -1,0 +1,7 @@
+# Install GIT
+https://git-scm.com/
+# Clone Project
+
+# Install Python27
+https://www.python.org/downloads/
+# Setup Python in PATH

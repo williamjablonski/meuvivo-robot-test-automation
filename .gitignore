@@ -1,0 +1,7 @@
+**/*.png
+**/*.xml
+**/*.html
+**/workspace.xml
+venv
+.idea
+reports/*
