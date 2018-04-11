@@ -19,7 +19,7 @@ WORKDIR /robots
 ADD . /robots
 
 RUN chmod +x config/install.sh
-RUN chmod +x run/run.sh
+RUN chmod +x run/run-meuvivo-PRE-PROD.sh
 
 RUN /robots/config/install.sh
 
