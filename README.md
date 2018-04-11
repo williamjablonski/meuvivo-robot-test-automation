@@ -2,7 +2,7 @@
 Smoke test de login do meuvivo
 
 
-== Construir a infra da automacao
+== Construir a infra da automacao ==
 
 docker build -t .
 
